@@ -1,0 +1,17 @@
+{
+  "name": "node-js-learning",
+  "version": "1.0.0",
+  "description": "This is for learning and revision of node js",
+  "main": "data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Yogesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "lodash": "^4.17.21",
+    "morgan": "^1.10.1"
+  }
+}

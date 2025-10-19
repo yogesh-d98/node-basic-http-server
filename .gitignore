@@ -1,0 +1,54 @@
+# Node dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+logs/
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Build outputs
+dist/
+build/
+coverage/
+.cache/
+.tmp/
+
+# Optional npm cache
+.npm/
+.eslintcache
+
+# Uploaded or temporary files
+uploads/
+temp/
+tmp/
+mock-docs/
+
+# Local configuration files
+*.local.json
+
+# Miscellaneous
+*.swp
+*.bak
+*.old
