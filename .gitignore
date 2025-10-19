@@ -43,7 +43,7 @@ coverage/
 uploads/
 temp/
 tmp/
-mock-docs/
+
 
 # Local configuration files
 *.local.json
